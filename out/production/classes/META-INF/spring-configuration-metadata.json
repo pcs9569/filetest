@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "fishbun.fishbunspring.domain.FileUploadProperties",
+      "sourceType": "fishbun.fishbunspring.domain.FileUploadProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "fishbun.fishbunspring.domain.FileUploadProperties"
+    }
+  ],
+  "hints": []
+}
